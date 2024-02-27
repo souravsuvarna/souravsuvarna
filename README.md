@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Backend Developer by day ☼, transforming into a Code Whisperer by night ☾.
+#### A Developer by day ☼, transforming into a Code Whisperer by night ☾.
 
 Backend Developer at [ARL](https://www.linkedin.com/company/access-research-labs-arl)
 
