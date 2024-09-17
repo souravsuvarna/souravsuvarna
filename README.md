@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-#### A Developer by day ☼, transforming into a Code Whisperer by night ☾.
-
-Backend Developer at [Sclera](https://www.linkedin.com/company/sclera-platform/)
+#### I code, therefore I break things. It's a talent.
 
 
 - ⚙️ I use : `.java`, `.js`, `.py`, `.cpp`
