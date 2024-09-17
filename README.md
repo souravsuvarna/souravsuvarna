@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I code, therefore I break things. It's a talent.
+#### The person you call when Ctrl+C & Ctrl+V fail you.
 
 
 - ⚙️ I use : `.java`, `.js`, `.py`, `.cpp`
